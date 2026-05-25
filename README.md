@@ -18,7 +18,6 @@
 - **LoRA adapter:** [huggingface.co/snehakarki/evomoe-gemma4-lora](https://huggingface.co/snehakarki/evomoe-gemma4-lora)
 - **Merged weights:** [huggingface.co/snehakarki/evomoe-gemma4-merged](https://huggingface.co/snehakarki/evomoe-gemma4-merged)
 - **GGUF (on-device):** [huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf](https://huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf)
-- **Kaggle notebook:** [kaggle.com/snehakarki/evomoe-gemma4-demo](https://kaggle.com/snehakarki/evomoe-gemma4-demo)
 
 ---
 

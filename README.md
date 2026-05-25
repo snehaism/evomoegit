@@ -5,7 +5,7 @@
 [![Brier](https://img.shields.io/badge/Brier_Score-0.094-brightgreen)](https://en.wikipedia.org/wiki/Brier_score)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
 
-**Gemma 4 Good Hackathon 2026** · Sneha Karki · IOE Pulchowk Campus · Harvard T.H. Chan
+**UOE Summer of Code** · Sneha Karki · IOE Pulchowk Campus · Harvard T.H. Chan
 
 > "The resistance is here. The tools to see it coming were not. We built them."
 
@@ -13,8 +13,8 @@
 
 ## Links
 
-- **Video:** [YouTube](https://youtu.be/YOUR_LINK)
-- **Live demo:** [huggingface.co/spaces/snehakarki/evomoe](https://huggingface.co/spaces/snehakarki/evomoe)
+- **Video:** [YouTube](https://youtu.be/10D-NGIC2Tw?si=cJYjTmCi_-zoil07)
+- **Live demo:** [https://inquisitive-dragon-189df8.netlify.app/](https://inquisitive-dragon-189df8.netlify.app/)
 - **LoRA adapter:** [huggingface.co/snehakarki/evomoe-gemma4-lora](https://huggingface.co/snehakarki/evomoe-gemma4-lora)
 - **Merged weights:** [huggingface.co/snehakarki/evomoe-gemma4-merged](https://huggingface.co/snehakarki/evomoe-gemma4-merged)
 - **GGUF (on-device):** [huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf](https://huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf)
